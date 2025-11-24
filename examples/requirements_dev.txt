@@ -1,0 +1,5 @@
+yfinance
+dimod
+dwave-neal
+numpy
+pandas
